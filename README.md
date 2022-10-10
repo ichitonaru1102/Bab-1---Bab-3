@@ -1,5 +1,5 @@
 # Hi, I'm Tonaru Ichi! 👋
-    A Sword Magician Vtuber. Everyone call me Ichi or Tona.
+    An Introvert Vtuber. Everyone call me Ichi or Tona. Thank you for supporting me🙏🙏
 __**My Own Link/Website :**__
 - [Website About Tonaru](https://tonaruichi.carrd.co/)
 - [Discord Tonaru](https://discord.gg/nXFa4NqDUg)
