@@ -1,5 +1,3 @@
-# Bab-1-dan-Bab-3
-
 # Hi, I'm Tonaru Ichi! 👋
     A Sword Magician Vtuber. Everyone call me Ichi or Tona.
 __**My Own Link/Website :**__
@@ -11,8 +9,6 @@ __**My Own Link/Website :**__
 ......................................
 
     🤍🤍Jika Kalian Punya Saran Untuk Saya, Beritahu Ya!!!🤍🤍
-
-
 
 
 # Marathon Coding C++
